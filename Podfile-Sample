@@ -1,0 +1,15 @@
+source 'git@github.com:CocoaPods/Specs.git'
+platform :ios, '7.0'
+
+pod 'AFNetworking'
+pod 'Aspects'
+pod 'BlocksKit'
+pod 'FXForms'
+pod 'MBProgressHUD'
+pod 'MWPhotoBrowser'
+pod 'NSAttributedString+CCLFormat'
+pod 'NSDate-Escort'
+pod 'NYXImagesKit'
+pod 'ReactiveCocoa'
+pod 'Reveal-iOS-SDK', :configurations => ['Debug']
+pod 'UIViewController+KeyboardAnimation'
