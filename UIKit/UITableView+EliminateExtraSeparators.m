@@ -1,6 +1,6 @@
 //
 //  UITableView+EliminateExtraSeparators.m
-//  
+//
 //
 //  Created by zx on 1/9/14.
 //  Copyright (c) 2014 zx. All rights reserved.
@@ -10,12 +10,11 @@
 
 @implementation UITableView (EliminateExtraSeparators)
 - (void)eliminateExtraSeparators {
-    UIView *view = [UIView new];
-    view.backgroundColor = [UIColor clearColor];
-    if (self.tableFooterView) {
-        
+    if (!self.tableFooterView) {
+        UIView *view = [UIView new];
+        view.backgroundColor = [UIColor clearColor];
+        self.tableFooterView = view;
     }
-    self.tableFooterView = view;
 }
 
 @end
