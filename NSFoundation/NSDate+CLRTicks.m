@@ -2,7 +2,7 @@
 //  NSDate+CLRTicks.m
 //  crmZztx
 //
-//  Created by niko on 6/18/14.
+//  Created by zx on 6/18/14.
 //  Copyright (c) 2014 luo hao. All rights reserved.
 //
 

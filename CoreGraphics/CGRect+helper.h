@@ -2,8 +2,8 @@
 //  CGRect+helper.h
 //  crmZztx
 //
-//  Created by niko on 10/14/14.
-//  Copyright (c) 2014 luo hao. All rights reserved.
+//  Created by zx on 10/14/14.
+//  Copyright (c) 2014 zztx All rights reserved.
 //
 
 CG_INLINE CGRect CGRectFromSize( CGSize size ) {

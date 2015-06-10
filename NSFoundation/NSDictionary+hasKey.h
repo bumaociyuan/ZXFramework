@@ -3,7 +3,7 @@
 //  crmZztx
 //
 //  Created by zx on 2/11/15.
-//  Copyright (c) 2015 luo hao. All rights reserved.
+//  Copyright (c) 2015 zztx All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

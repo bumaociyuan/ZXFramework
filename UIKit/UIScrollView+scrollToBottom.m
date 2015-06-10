@@ -2,8 +2,8 @@
 //  UIScrollView+scrollToBottom.m
 //  crmZztx
 //
-//  Created by niko on 7/1/14.
-//  Copyright (c) 2014 luo hao. All rights reserved.
+//  Created by zx on 7/1/14.
+//  Copyright (c) 2014 zztx All rights reserved.
 //
 
 #import "UIScrollView+scrollToBottom.h"
