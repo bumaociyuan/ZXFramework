@@ -18,6 +18,7 @@
 #import "NSString+replace.h"
 #import "UIBarButtonItem+initWithImageName.h"
 #import "UIImage+fixOrientation.h"
+#import "UIImage+QRCode.h"
 #import "UIImage+resizeImage.h"
 #import "UIScrollView+scrollToBottom.h"
 #import "UISegmentedControl+helper.h"
@@ -32,3 +33,4 @@
 #import "UIWebView+loadURL.h"
 #import "ZX_Define.h"
 #import <objc/runtime.h>
+

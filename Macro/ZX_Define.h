@@ -2,7 +2,7 @@
 
 #define APP_DELEGATE  ((AppDelegate *)[[UIApplication sharedApplication]delegate])
 
-#define WINDOW_HEIGHT ([[(AppDelegate *)[[UIApplication sharedApplication]delegate] window] height] + (IOS_7 ? 0 : -20))
+#define WINDOW_HEIGHT ([[(AppDelegate *)[[UIApplication sharedApplication]delegate] window] height] + (IOS7_OR_LATER ? 0 : -20))
 #define WINDOW_WIDTH  [UIScreen mainScreen].bounds.size.width
 
 /**

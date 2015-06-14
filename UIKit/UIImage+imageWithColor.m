@@ -3,7 +3,7 @@
 //  crmZztx
 //
 //  Created by zx on 12/5/14.
-//  Copyright (c) 2014 luo hao. All rights reserved.
+//  Copyright (c) 2014 zztx All rights reserved.
 //
 
 #import "UIImage+imageWithColor.h"

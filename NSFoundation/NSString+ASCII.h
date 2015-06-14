@@ -2,8 +2,8 @@
 //  NSString+ASCII.h
 //  crmZztx
 //
-//  Created by niko on 10/31/14.
-//  Copyright (c) 2014 luo hao. All rights reserved.
+//  Created by zx on 10/31/14.
+//  Copyright (c) 2014 zztx All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

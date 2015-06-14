@@ -2,7 +2,7 @@
 //  NSObject+isEqual.m
 //  crmZztx
 //
-//  Created by niko on 10/9/14.
+//  Created by zx on 10/9/14.
 //  Copyright (c) 2014 luo hao. All rights reserved.
 //
 
