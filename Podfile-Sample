@@ -6,8 +6,11 @@ pod 'Aspects'
 pod 'BlocksKit'
 pod 'FXForms'
 pod 'MBProgressHUD'
+pod 'Masonry'
 pod 'NSDate-Escort'
 pod 'NYXImagesKit'
+pod 'ObjcAssociatedObjectHelpers'
 pod 'ReactiveCocoa'
 pod 'Reveal-iOS-SDK', :configurations => ['Debug']
 pod 'UIViewController+KeyboardAnimation'
+
