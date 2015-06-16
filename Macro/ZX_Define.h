@@ -28,31 +28,13 @@
 
 #define HEX_COLOR(hexValue)       [UIColor colorWithRed : ((float)((hexValue & 0xFF0000) >> 16)) / 255.0 green : ((float)((hexValue & 0xFF00) >> 8)) / 255.0 blue : ((float)(hexValue & 0xFF)) / 255.0 alpha : 1.0]
 
-#define CLEAR_COLOR      [UIColor clearColor]
-
-#define BlACK_COLOR      [UIColor blackColor]
-
-#define RED_COLOR        [UIColor redColor]
-
-#define BLUE_COLOR       [UIColor blueColor]
-
-#define WHITE_COLOR      [UIColor whiteColor]
-
-#define GREEN_COLOR      [UIColor greenColor]
-
-#define YELLOW_COLOR     [UIColor yellowColor]
-
-#define ORANGE_COLOR     [UIColor orangeColor]
-
-#define LIGHT_GRAY_COLOR [UIColor lightGrayColor]
-
-#define GRAY_COLOR       [UIColor grayColor]
-
 #define NINE_COLOR       HEX_COLOR(0x999999)
 
 #define SIX_COLOR        HEX_COLOR(0x666666)
 
 #define THREE_COLOR      HEX_COLOR(0x333333)
+
+#define UITableViewStyleGroupedBackgroundColor  (IOS8_OR_LATER ? [UIColor colorWithRed:0.937255 green:0.937255 blue:0.956863 alpha:1.000] : [UIColor colorWithRed:0.933 green:0.933 blue:0.957 alpha:1.000])
 
 /**
  *  device

@@ -10,7 +10,7 @@
 
 @implementation UIView (addShadow)
 - (void)addShadow {
-    self.layer.shadowColor = BlACK_COLOR.CGColor;
+    self.layer.shadowColor = [UIColor blackColor].CGColor;
     self.layer.shadowRadius = 5;
     self.layer.shadowOffset = CGSizeZero;
     self.layer.shadowOpacity = .5;

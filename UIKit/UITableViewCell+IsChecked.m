@@ -11,7 +11,7 @@
 @implementation UITableViewCell (IsChecked)
 
 - (void)setChecked:(BOOL)checked {
-    self.accessoryType = UITableViewCellAccessoryCheckmark;
+    self.accessoryType = checked ? UITableViewCellAccessoryCheckmark : UITableViewCellAccessoryNone;
 }
 
 - (BOOL)isChecked {
