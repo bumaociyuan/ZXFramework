@@ -12,5 +12,6 @@ pod 'NYXImagesKit'
 pod 'ObjcAssociatedObjectHelpers'
 pod 'ReactiveCocoa'
 pod 'Reveal-iOS-SDK', :configurations => ['Debug']
-pod 'UIViewController+KeyboardAnimation'
 pod 'RegExCategories'
+pod 'UIViewController+KeyboardAnimation'
+
