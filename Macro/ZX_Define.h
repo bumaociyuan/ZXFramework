@@ -56,7 +56,7 @@
 #endif
 
 #ifndef ZX_NOTEMPTY
-#define ZX_NOTEMPTY(__OBJECT)                    (EMPTY(__OBJECT) == NO)
+#define ZX_NOTEMPTY(__OBJECT)                    (ZX_EMPTY(__OBJECT) == NO)
 #endif
 
 #ifndef ZX_VALID
